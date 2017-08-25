@@ -1,0 +1,4 @@
+Methane_12CH4
+Methane_13CH4
+CarbonDioxide_12CO2
+CarbonDioxide_13CO2

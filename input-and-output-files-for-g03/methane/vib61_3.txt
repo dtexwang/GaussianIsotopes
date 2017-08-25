@@ -1,0 +1,10 @@
+opening methane_61_3.out for input
+
+Scaling vibrational frequencies by 1.0000
+Molecular mass = 0.000 u
+External symmetry number = 1
+Rotational constants (GHz) = 0.00000 0.00000 0.00000
+Harmonic vibrational frequencies (cm^-1):  none
+
+***Overwrite file 'thermo.dat'? 
+Vibrational zero-point energy = 0.0 cm^-1 = 0.00 kJ/mol.

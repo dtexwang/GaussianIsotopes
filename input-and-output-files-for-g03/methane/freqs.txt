@@ -1,0 +1,38 @@
+opening methane_61_3.out for input
+
+Scaling vibrational frequencies by 1.0000
+Molecular mass = 16.031 u
+External symmetry number = 12.
+Rotational constants (GHz) = 158.70337 158.70337 158.70337
+Harmonic vibrational frequencies (cm^-1):
+	unscaled	scaled
+  1	1393.38		1393.38
+  2	1393.38		1393.38
+  3	1393.38		1393.38
+  4	1600.09		1600.09
+  5	1600.09		1600.09
+  6	3018.36		3018.36
+  7	3132.97		3132.97
+  8	3132.97		3132.97
+  9	3132.97		3132.97
+Electronic states:
+	degen	cm^-1
+  1	 1	0.0
+
+Vibrational zero-point energy = 9898.8 cm^-1 = 118.42 kJ/mol.
+
+T (K)	S (J/mol.K)	Cp (J/mol.K)	ddH (kJ/mol)
+100.00	149.43		33.26		3.33
+200.00	172.50		33.39		6.65
+298.15	186.06		35.06		9.99
+300.00	186.28		35.11		10.06
+400.00	196.91		39.30		13.76
+500.00	206.25		44.76		17.96
+600.00	214.92		50.45		22.72
+700.00	223.11		55.93		28.04
+800.00	230.91		61.05		33.89
+900.00	238.38		65.74		40.24
+1000.00	245.53		69.98		47.03
+
+Input data (including scaled vibrational frequencies) written to
+file 'thermo.dat'.

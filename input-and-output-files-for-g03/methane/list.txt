@@ -1,0 +1,25 @@
+total 4880
+drwxr-xr-x 2 dtw nogroup    2048 Aug 31 17:29 .
+drwxr-xr-x 4 dtw nogroup    2048 Aug 31 17:30 ..
+-rw-r--r-- 1 dtw nogroup     326 Aug 31 16:46 methane_3_RunJobs.sh
+-rw-r--r-- 1 dtw nogroup 4395008 Aug 31 13:03 methane61_1.chk
+-rw-r--r-- 1 dtw nogroup     429 Aug 31 13:03 methane61_1.com
+-rw-r--r-- 1 dtw nogroup   57770 Aug 31 13:03 methane61_1.log
+-rw-r--r-- 1 dtw nogroup     431 Aug 31 16:33 methane_61_3.com
+-rw-r--r-- 1 dtw nogroup    4126 Aug 31 16:43 methane_61_3.log
+-rw-r--r-- 1 dtw nogroup   57976 Aug 31 16:44 methane_61_3.out
+-rw-r--r-- 1 dtw nogroup     447 Aug 31 16:25 methane_61-65_2.com
+-rw-r--r-- 1 dtw nogroup  254941 Aug 31 15:53 methane_61-65_2.log
+-rw-r--r-- 1 dtw nogroup     141 Aug 31 16:32 methane_62_3.com
+-rw-r--r-- 1 dtw nogroup    4126 Aug 31 16:43 methane_62_3.log
+-rw-r--r-- 1 dtw nogroup   49278 Aug 31 16:44 methane_62_3.out
+-rw-r--r-- 1 dtw nogroup     142 Aug 31 16:32 methane_63_3.com
+-rw-r--r-- 1 dtw nogroup    4126 Aug 31 16:43 methane_63_3.log
+-rw-r--r-- 1 dtw nogroup   49359 Aug 31 16:44 methane_63_3.out
+-rw-r--r-- 1 dtw nogroup     142 Aug 31 16:32 methane_64_3.com
+-rw-r--r-- 1 dtw nogroup   49586 Aug 31 16:44 methane_64_3.out
+-rw-r--r-- 1 dtw nogroup     143 Aug 31 16:32 methane_65_3.com
+-rw-r--r-- 1 dtw nogroup   49345 Aug 31 16:44 methane_65_3.out
+-rw-r--r-- 1 dtw nogroup     149 Aug 31 17:29 methnae_61_3.freqs.txt
+-rw-r--r-- 1 dtw nogroup       0 Aug 31 16:43 tee
+-rw-r--r-- 1 dtw nogroup     324 Aug 31 16:40 vib61_3.txt
